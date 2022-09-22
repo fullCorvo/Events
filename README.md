@@ -11,7 +11,7 @@ The main features are:
 - Profile viewer
 - Profile customization
 
-Here some screenshots
+Here are some screenshots:
 <div>
   <img  src="https://user-images.githubusercontent.com/74657021/188671272-6e9944f5-8b8b-4dbb-8d21-5307a1a0c569.jpg" width="200" height="400" />
   <img  src="https://user-images.githubusercontent.com/74657021/188673641-6d45e10e-e45b-482a-adbe-9eb1358ab0aa.jpg" width="200" height="400" />
